@@ -4,7 +4,7 @@
 
 - [Links](#links)
 - [Description](#description)
-- [Gif](#gif)
+- [Screenshot/Gif](#gif)
 - [Demo](#demo)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
@@ -14,20 +14,20 @@
 
 ## Links
 
-- Solution URL: [GitHub Repository](https://github.com/your-username/locomotive-smooth-scroll)
-- Live Demo: [Live Demo URL](https://your-project-live-demo-url.com)
+- Solution URL: [GitHub Repository](https://github.com/aruntutter/locomotive-smooth-scroll)
+- Live Demo: [Live Demo URL](https://phenomenal-marshmallow-ef2b10.netlify.app/)
 
 ## Description
 
 The Locomotive Smooth Scroll project showcases a webpage with smooth scrolling effects using the Locomotive Scroll library. It features multiple sections with different background colors and scroll speeds, providing an engaging and visually appealing experience.
 
-## Gif
+## Screenshot/Gif
 
 ![Gif 1](gif1/gif1.png)
 
 ## Demo
 
-Explore the live demo [here](https://your-project-live-demo-url.com).
+Explore the live demo [here](https://phenomenal-marshmallow-ef2b10.netlify.app/).
 
 ## Features
 
