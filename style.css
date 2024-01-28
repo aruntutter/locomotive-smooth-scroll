@@ -16,6 +16,15 @@ body {
   height: 100vh;
   width: 100%;
   background-color: lightblue;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.page1 h1 {
+  font-size: 2.5rem;
+  text-decoration: underline;
 }
 
 .page2 {
@@ -38,4 +47,30 @@ body {
   height: 100vh;
   width: 100%;
   background-color: rgb(58, 180, 220);
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.page3 h2 {
+  display: inline-block;
+  display: flex;
+  gap: 2rem;
+}
+
+.page3 a {
+  width: 150px;
+  text-align: center;
+  color: white;
+  text-decoration: none;
+  padding: 8px 16px;
+  border: 1px solid #33333368;
+  border-radius: 50px;
+  transition: background-color 0.3s ease;
+}
+
+.page3 a:hover {
+  background-color: #33333368;
+  text-decoration: underline;
 }
