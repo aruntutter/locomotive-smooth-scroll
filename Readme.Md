@@ -33,7 +33,6 @@ Explore the live demo [here](https://phenomenal-marshmallow-ef2b10.netlify.app/)
 
 - Smooth scrolling effects powered by Locomotive Scroll.
 - Multi-section layout with diverse background colors and scroll speeds.
-- Responsive design for various screen sizes.
 
 ## Technologies Used
 
